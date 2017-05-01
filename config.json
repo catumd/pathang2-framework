@@ -1,0 +1,24 @@
+{
+	"SITE":
+	{
+		"ROOT":"http:\/\/localhost\/pathang\/",
+		"SECURE":"0",
+		"HASH":"kite",
+		"THEME":"colors",
+		"PAGE":"index"
+	},
+	"DB":
+	{
+		"DB_NAME":"pathang",
+		"HOST":"localhost",
+		"USERNAME":"user",
+		"PASSWORD":"passwd"
+	},
+	"META":
+	{
+		"TITLE":"Pathang",
+		"AUTHOR":"krishna Teja",
+		"DESC":"A sleak php framework for rapid web app development, supporting with features like multiple rendering option,dynamic template swapping,simple routing etc.",
+		"KEYWORDS":"pathang,framework,php,webapps"
+	}
+}

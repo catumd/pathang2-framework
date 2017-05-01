@@ -1,0 +1,39 @@
+body{
+	margin:0px auto;
+	padding:0px;
+	background: #fff;
+	font: 14px/21px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #444;
+}
+
+a:link,a:visited {
+	text-decoration:none; 
+	color:#989898
+}
+a:hover{
+	text-decoration:none; 
+	color:#34495e
+}
+
+.container{
+	margin:0px auto;
+	max-width:600px;
+}
+
+.logo{
+	text-align:center;
+	padding:30px;
+}
+
+.pad50{
+	padding-bottom:50px;
+}
+
+.page{
+	padding:12%;
+	text-align:center;
+}
+
+.message{
+	font-size:30px;
+}

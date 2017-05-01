@@ -1,0 +1,49 @@
+
+body{
+	margin:0px auto;
+	padding:0px;
+	background: #ecf0f1;
+	font: 14px/21px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #444;
+}
+
+a:link,a:visited {
+	text-decoration:none; 
+	color:#989898
+}
+a:hover{
+	text-decoration:none; 
+	color:#34495e
+}
+
+.box{
+	padding:20px;
+	background:#f1c40f;
+	text-align:center;	
+}
+
+.container{
+	margin:0px auto;
+	max-width:600px;
+}
+
+.logo{
+	text-align:center;
+	padding:30px;
+}
+
+.pad50{
+	padding-bottom:50px;
+}
+
+.page{
+	margin-top:40px;
+	padding:12%;
+	text-align:center;
+	background:white;
+}
+
+.message{
+	font-size:30px;
+}
+
